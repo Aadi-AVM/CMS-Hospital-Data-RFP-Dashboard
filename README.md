@@ -1,7 +1,7 @@
 # 🏥 CMS Hospital Data RFP Dashboard
 
 **A Data Analytics & Visualization Project**  
-_Developed by [Aaditya Malathy](https://github.com/dataaadi05) | M.S. Healthcare Data Analytics, UNT_
+_Developed by [Aaditya Malathy] | M.S. Healthcare Data Analytics, UNT_
 
 ---
 
